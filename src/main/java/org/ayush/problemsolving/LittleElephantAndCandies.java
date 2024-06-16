@@ -1,4 +1,4 @@
-package org.ayush.arrays;
+package org.ayush.problemsolving;
 
 import java.util.Arrays;
 import java.util.Scanner;

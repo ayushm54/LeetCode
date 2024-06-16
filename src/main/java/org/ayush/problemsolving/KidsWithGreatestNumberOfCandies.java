@@ -1,4 +1,4 @@
-package org.ayush.arrays;
+package org.ayush.problemsolving;
 
 import java.util.ArrayList;
 import java.util.List;

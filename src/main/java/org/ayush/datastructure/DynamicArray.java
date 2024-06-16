@@ -1,4 +1,4 @@
-package org.ayush.arrays.datastructure;
+package org.ayush.datastructure;
 
 import java.util.Iterator;
 
@@ -118,5 +118,25 @@ public class DynamicArray<T> implements Iterable<T>{
         }
         sb.append(this.arr[this.length - 1]).append("]");
         return sb.toString();
+    }
+
+    public static void main(String[] args) {
+        DynamicArray<Integer> integerDynamicArray = new DynamicArray<>(1);
+        integerDynamicArray.add(1);
+        integerDynamicArray.add(2);
+        integerDynamicArray.add(3);
+        System.out.println("Size: " + integerDynamicArray.size());
+        System.out.println("Capacity: " + integerDynamicArray.capacity());
+        System.out.println(integerDynamicArray.removeAt(0));
+        System.out.println("Size: " + integerDynamicArray.size());
+        System.out.println("Capacity: " + integerDynamicArray.capacity());
+        System.out.println(integerDynamicArray.remove(2));
+        System.out.println("Size: " + integerDynamicArray.size());
+        System.out.println("Capacity: " + integerDynamicArray.capacity());
+        integerDynamicArray.add(5);
+        integerDynamicArray.add(6);
+        System.out.println("Size: " + integerDynamicArray.size());
+        System.out.println("Capacity: " + integerDynamicArray.capacity());
+        System.out.println(integerDynamicArray);
     }
 }
