@@ -62,4 +62,21 @@ public class Subsets {
         sublist.remove(Integer.valueOf(nums[i]));
         getSubsets(i+1, subsets, sublist, nums);
     }
+
+    // Using power set(left shift)
+    public static List<List<Integer>> getSubsets(int[] nums){
+        List<List<Integer>> subsets = new ArrayList<>();
+        int numSubsets = (int) Math.pow(2, nums.length);
+        for(int i = 0; i < numSubsets; i++){
+            List<Integer> subset = new ArrayList<>();
+            for(int j = 0; j < nums.length; j++){
+                int x = 1 << j;
+                if((i & x) != 0){
+                    subset.add(nums[j]);
+                }
+            }
+            subsets.add(subset);
+        }
+        return subsets;
+    }
 }

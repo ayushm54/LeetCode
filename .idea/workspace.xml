@@ -4,17 +4,93 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f26fb88-30bd-4ec9-81bf-2c5b68f3a2ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="6f26fb88-30bd-4ec9-81bf-2c5b68f3a2ca" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/datastructure/DoublyLinkedListWithChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/datastructure/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/datastructure/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/datastructure/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/datastructure/Trie1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/datastructure/Trie2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/datastructure/TrieNode1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/datastructure/TrieNode2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/Add2NumsLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/CapacityToShipPackagesWithinDDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/CombinationSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/CombinationSumCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/CombinationSumOnlyOneSubset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/CompleteString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/CountDistinctSubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/DistinctElements3Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/FindMinInRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/FindMinInRotatedSortedArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/FirstAndLastPositionOfElementInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/FlattenDoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/GoodPrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/ImplementTrie1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/ImplementTrie2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/IsSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/KokoEatingBananas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/KthMissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/LCAOf3Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/LinkedListPalindome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/LongestSequenceOfPositiveIntegersInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/MapSumPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/MaxXORQueries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/MaximumXOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/MergeSortedLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/MinDaysToMakeBouquets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/NthRootOfM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/NumberOfRotationsInASortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/OddEvenGroupLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/PalindromeRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/PeakElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/PrefixAndSuffixPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/PushAllZerosToEndOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/ReplaceWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/ReverseArrayRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/ReverseWordsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/RightViewOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/RotateLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/Search2DMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/Search2DMatrix2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/SearchRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/SearchRotatedSortedArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/SingleElementInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/SmallestDivisorGivenAThreshold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/SquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/WordDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/WordSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/WordSearch2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/MergeTwoSortedArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/Subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/Subsets.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2ePPj0emmW9fcDM4DNr0dW1PX1L" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -23,11 +99,187 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Add2NumsLinkedList.executor": "Run",
+    "Application.BinaryHeap.executor": "Debug",
+    "Application.BinarySearch.executor": "Run",
+    "Application.CapacityToShipPackagesWithinDDays.executor": "Run",
+    "Application.CombinationSum.executor": "Run",
+    "Application.CombinationSum2.executor": "Run",
+    "Application.CombinationSumCount.executor": "Run",
+    "Application.CombinationSumOnlyOneSubset.executor": "Run",
+    "Application.CompleteString.executor": "Run",
+    "Application.ContainsDuplicate.executor": "Run",
+    "Application.CountDistinctSubstrings.executor": "Run",
+    "Application.CountPairsWithSumLessThanTarget.executor": "Run",
+    "Application.DistinctElements3Sum.executor": "Run",
+    "Application.DoublyLinkedList.executor": "Run",
+    "Application.DynamicArray.executor": "Run",
+    "Application.DynamicArrayTest.executor": "Run",
+    "Application.ElementsWithTargetSum.executor": "Run",
+    "Application.FindMinInRotatedSortedArray.executor": "Run",
+    "Application.FindMinInRotatedSortedArray2.executor": "Run",
+    "Application.FirstAndLastPositionOfElementInSortedArray.executor": "Debug",
+    "Application.FirstUniqueCharacterInString.executor": "Run",
+    "Application.FlattenDoublyLinkedList.executor": "Run",
+    "Application.GoodPrimeNumber.executor": "Debug",
+    "Application.GroupAnagrams.executor": "Run",
+    "Application.HappyNumber.executor": "Run",
+    "Application.ImplementTrie1.executor": "Run",
+    "Application.ImplementTrie2.executor": "Run",
+    "Application.IntersectionOfTwoArrays.executor": "Run",
+    "Application.IsSubsequence.executor": "Run",
+    "Application.IsomorphicStrings.executor": "Debug",
+    "Application.KidsWithGreatestNumberOfCandies.executor": "Run",
+    "Application.KokoEatingBananas.executor": "Run",
+    "Application.KthMissingNumber.executor": "Run",
+    "Application.LCAOf3Node.executor": "Run",
+    "Application.LinkedListPalindome.executor": "Debug",
+    "Application.LittleElephantAndCandies.executor": "Run",
+    "Application.LongestCommonPrefix.executor": "Run",
+    "Application.LongestSequenceOfPositiveIntegersInArray.executor": "Run",
+    "Application.LongestSubstrWithoutRepeatingCharacters.executor": "Debug",
+    "Application.MapSumPairs.executor": "Run",
+    "Application.MaxXORQueries.executor": "Debug",
+    "Application.MaximumXOR.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.MergeSortedLinkedList.executor": "Run",
+    "Application.MergeTwoSortedArrays.executor": "Run",
+    "Application.MinDaysToMakeBouquets.executor": "Run",
+    "Application.MinimumIndexSumOfTwoLists.executor": "Run",
+    "Application.NthRootOfM.executor": "Run",
+    "Application.NumEmployeesMetTarget.executor": "Run",
+    "Application.NumberOfRotationsInASortedArray.executor": "Run",
+    "Application.NumbersSmallerThanCurrentNumber.executor": "Run",
+    "Application.OddEvenGroupLinkedList.executor": "Debug",
+    "Application.PalindromeRecursion.executor": "Run",
+    "Application.PeakElement.executor": "Run",
+    "Application.PlayerWithMaximumLead.executor": "Run",
+    "Application.PrefixAndSuffixPairs.executor": "Run",
+    "Application.PushAllZerosToEndOfArray.executor": "Run",
+    "Application.QueueUsingLinkedList.executor": "Run",
+    "Application.QuickSort.executor": "Run",
+    "Application.RemoveDuplicatesFromSortedArray.executor": "Run",
+    "Application.ReplaceWords.executor": "Run",
+    "Application.ReverseArrayRecursion.executor": "Run",
+    "Application.ReverseLinkedList.executor": "Run",
+    "Application.ReverseWordsInString.executor": "Run",
+    "Application.RichestCustomerWealth.executor": "Run",
+    "Application.RightViewOfBinaryTree.executor": "Run",
+    "Application.RotateLinkedList.executor": "Run",
+    "Application.Search2DMatrix.executor": "Run",
+    "Application.Search2DMatrix2.executor": "Run",
+    "Application.SearchRotatedSortedArray.executor": "Run",
+    "Application.SearchRotatedSortedArray2.executor": "Run",
+    "Application.SingleElementInSortedArray.executor": "Run",
+    "Application.SmallestDivisorGivenAThreshold.executor": "Run",
+    "Application.SquareRoot.executor": "Run",
+    "Application.StackUsingLinkedList.executor": "Run",
+    "Application.Subsets.executor": "Run",
+    "Application.TopKFreqElements.executor": "Run",
+    "Application.Trie.executor": "Run",
+    "Application.ValidSudoku.executor": "Run",
+    "Application.WordDictionary.executor": "Run",
+    "Application.WordSearch.executor": "Run",
+    "Application.WordSearch2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.ayush.arrays.problemsolving" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KthMissingNumber">
+    <configuration name="CapacityToShipPackagesWithinDDays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ayush.problemsolving.CapacityToShipPackagesWithinDDays" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ayush.problemsolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KokoEatingBananas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ayush.problemsolving.KokoEatingBananas" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ayush.problemsolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KthMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ayush.problemsolving.KthMissingNumber" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ayush.problemsolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinDaysToMakeBouquets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ayush.problemsolving.MinDaysToMakeBouquets" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ayush.problemsolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestDivisorGivenAThreshold" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ayush.problemsolving.SmallestDivisorGivenAThreshold" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ayush.problemsolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KthMissingNumber" />
+        <item itemvalue="Application.CapacityToShipPackagesWithinDDays" />
+        <item itemvalue="Application.SmallestDivisorGivenAThreshold" />
+        <item itemvalue="Application.MinDaysToMakeBouquets" />
+        <item itemvalue="Application.KokoEatingBananas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,7 +288,367 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711803370640</updated>
+      <workItem from="1711803371665" duration="826000" />
+      <workItem from="1712391550110" duration="625000" />
+      <workItem from="1712479920974" duration="3235000" />
+      <workItem from="1716983353595" duration="15910000" />
+      <workItem from="1717390854603" duration="57000" />
+      <workItem from="1717589860699" duration="5327000" />
+      <workItem from="1717663157512" duration="4474000" />
+      <workItem from="1717690655427" duration="4263000" />
+      <workItem from="1717929189922" duration="6186000" />
+      <workItem from="1717997188776" duration="346000" />
+      <workItem from="1718188739033" duration="16234000" />
+      <workItem from="1718280387077" duration="140000" />
+      <workItem from="1718280537824" duration="626000" />
+      <workItem from="1718281222953" duration="19878000" />
+      <workItem from="1718554546430" duration="1088000" />
+      <workItem from="1718601463788" duration="291000" />
+      <workItem from="1718606302927" duration="253000" />
+      <workItem from="1718631746700" duration="4997000" />
+      <workItem from="1718642793205" duration="1283000" />
+      <workItem from="1718712789008" duration="37879000" />
+      <workItem from="1719132224273" duration="6225000" />
+      <workItem from="1719310071343" duration="1432000" />
+      <workItem from="1719312152333" duration="1198000" />
+      <workItem from="1719400079318" duration="5560000" />
+      <workItem from="1719485361532" duration="7798000" />
+      <workItem from="1719821827467" duration="1086000" />
+      <workItem from="1719824612667" duration="2169000" />
+      <workItem from="1719984079735" duration="12977000" />
+      <workItem from="1720110253764" duration="37883000" />
+      <workItem from="1720435192493" duration="2325000" />
+      <workItem from="1720600613032" duration="41893000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1718555051282</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718555051282</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/NumbersSmallerThanCurrentNumber.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/NumbersSmallerThanCurrentNumber.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/datastructure/DoublyLinkedList.java</url>
+          <line>202</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/datastructure/DoublyLinkedList.java</url>
+          <line>215</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/datastructure/DoublyLinkedList.java</url>
+          <line>213</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/HappyNumber.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/HappyNumber.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/HappyNumber.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/IsomorphicStrings.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/MinimumIndexSumOfTwoLists.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/GroupAnagrams.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/ValidSudoku.java</url>
+          <line>124</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/TopKFreqElements.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/Subsets.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/CombinationSum2.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/Search2DMatrix.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/Search2DMatrix2.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/Search2DMatrix2.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/LinkedListPalindome.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/MergeSortedLinkedList.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/RotateLinkedList.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/Add2NumsLinkedList.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/Add2NumsLinkedList.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/CompleteString.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/CountDistinctSubstrings.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/CountDistinctSubstrings.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/datastructure/Trie1.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/MapSumPairs.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/MapSumPairs.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/ReplaceWords.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/ReplaceWords.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/WordDictionary.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/WordSearch.java</url>
+          <line>52</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/WordSearch2.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/LongestCommonPrefix.java</url>
+          <line>107</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/LCAOf3Node.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/ReverseWordsInString.java</url>
+          <line>46</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/SearchRotatedSortedArray.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/FindMinInRotatedSortedArray2.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/FindMinInRotatedSortedArray2.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/NumberOfRotationsInASortedArray.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/SingleElementInSortedArray.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/RightViewOfBinaryTree.java</url>
+          <line>49</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/ReverseLinkedList.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/PeakElement.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/PeakElement.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/SquareRoot.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/NthRootOfM.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/NthRootOfM.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/KokoEatingBananas.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/MinDaysToMakeBouquets.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/CapacityToShipPackagesWithinDDays.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/CapacityToShipPackagesWithinDDays.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/CapacityToShipPackagesWithinDDays.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/CapacityToShipPackagesWithinDDays.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/CapacityToShipPackagesWithinDDays.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/KthMissingNumber.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ayush/problemsolving/KthMissingNumber.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCode$DoublyLinkedList.ic" NAME="DoublyLinkedList Coverage Results" MODIFIED="1717589944597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.ayush.datastructure.*</FILTER>
+    </SUITE>
   </component>
 </project>
