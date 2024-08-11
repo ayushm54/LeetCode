@@ -1,5 +1,7 @@
 package org.ayush.datastructure;
 
+import org.ayush.problemsolving.trie.WildcardMatching;
+
 public class TrieNode1 {
     private TrieNode1[] children;
     private boolean isWord;
@@ -27,5 +29,12 @@ public class TrieNode1 {
 
     public boolean isEnd() {
         return isWord;
+    }
+
+    public TrieNode1 getNonNullChild() {
+        for (TrieNode1 child : this.children) {
+            if(child != null) return child;
+        }
+        return null;
     }
 }
